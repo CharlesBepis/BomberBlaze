@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: Le répertoire intermédiaire (x64\Debug\) contient des fichiers partagés provenant d'un autre projet (Bomberman!.vcxproj, CSFML.vcxproj). Cela peut entraîner un comportement de nettoyage et de regénération incorrect.
+  Player.c
+C:\Users\gamer\Desktop\v1.0\Projet Bomberman\CSFML\Enemy.h(71,39): warning C4028: paramètre formel 1 différent de la déclaration
+C:\Users\gamer\Desktop\v1.0\Projet Bomberman\CSFML\Player.c(48,65): warning C4244: 'initialisation' : conversion de 'unsigned int' en 'float', perte possible de données
+C:\Users\gamer\Desktop\v1.0\Projet Bomberman\CSFML\Player.c(48,84): warning C4244: 'initialisation' : conversion de 'unsigned int' en 'float', perte possible de données
+C:\Users\gamer\Desktop\v1.0\Projet Bomberman\CSFML\Player.c(54,49): warning C4244: 'fonction' : conversion de 'double' en 'int', perte possible de données
+C:\Users\gamer\Desktop\v1.0\Projet Bomberman\CSFML\Player.c(187,12): warning C4244: '+=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\gamer\Desktop\v1.0\Projet Bomberman\CSFML\Player.c(188,12): warning C4244: '+=' : conversion de 'float' en 'int', perte possible de données
+  CSFML.vcxproj -> C:\Users\gamer\Desktop\v1.0\Projet Bomberman\x64\Debug\Bomber Blaze.exe
